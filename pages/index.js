@@ -1,5 +1,11 @@
+import logo from "./assets/logo-site-teste.png";
+
 function Home() {
-    return <img src="/logo site teste.png" alt="Descrição" />
+  return (
+    <div>
+      <img src={logo} alt="Descrição" />
+    </div>
+  );
 }
 
 export default Home;
