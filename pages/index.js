@@ -1,5 +1,5 @@
 function Home() {
-  return <img src="/logo-site-teste.png" alt="Logo do site" />;
+    return <h1>Eu amo gatos!</h1>
 }
 
 export default Home;
